@@ -64,6 +64,6 @@ Authentication threshold: Confidence > 5% → Access Granted
 
 Result 
 
-CNN (standalone) is 86%
+CNN (standalone) is 86% &
 CNN + SVM (hybrid) is 92%
 
